@@ -1,5 +1,9 @@
 # play-with-jupyter-book
 
+## 作ったもの
+
+https://kakeami.github.io/play-with-jupyter-book
+
 ## 参考
 
 https://jupyterbook.org/start/your-first-book.html
